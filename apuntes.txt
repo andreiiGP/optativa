@@ -1,0 +1,8 @@
+variable en php se declara $ nombre de la variable = valor;
+<?php
+    $txt="hello world";
+    $x=16;
+<? 
+la concatenacion en php se hace con un punto Ejemplo  ===> echo $ txt1 ."". $txt2
+
+
